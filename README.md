@@ -1,6 +1,6 @@
 # music-analyzer
 
-A desktop application for analyzing and cataloging music files by tempo (BPM) and energy level. Built as my first audio analysis project.
+A desktop application for analyzing and cataloging music files by tempo (BPM) and energy level. Built as my first project.
 ![Main Interface](ui.png)
 
 ## Features
